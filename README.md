@@ -50,10 +50,10 @@ Reusable pieces of code that are comprised of HTML, CSS, and JS that and can be 
 
 ### Git Set up
 
-* [ ] Fork the project into your GitHub user account
-* [ ] Clone the forked project into a directory on your machine
-* [ ] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
-* [ ] You are now ready to build this project with your preferred IDE
+* [ o] Fork the project into your GitHub user account
+* [ o] Clone the forked project into a directory on your machine
+* [0 ] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
+* [ 0] You are now ready to build this project with your preferred IDE
 
 ## Minimum Viable Product
 
