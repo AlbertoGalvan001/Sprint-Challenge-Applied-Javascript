@@ -31,7 +31,7 @@ function createHeader(headerArray) {
     temp.classList.add('temp');
 
     //content
-    date.textContent = "SMARCH 28, 2019";
+    date.textContent = "March 28, 2019";
     title.textContent = `Lambda Times`;
     temp.textContent = `98*`;
 
